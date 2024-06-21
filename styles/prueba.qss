@@ -1,0 +1,225 @@
+/* Incio_Sesion */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 586px;
+height: 383px;
+left: 392px;
+top: 43px;
+
+background: url(logo-CRIT-Hidalgo-removebg-preview);
+
+
+/* INICIO DE SESIÓN */
+
+position: absolute;
+width: 275px;
+height: 39px;
+left: 88px;
+top: 453px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+border: 1px solid #D9D9D9;
+
+
+/* Usuario */
+
+position: absolute;
+width: 87px;
+height: 29px;
+left: 118px;
+top: 512px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+border: 1px solid #D9D9D9;
+
+
+/* Contraseña */
+
+position: absolute;
+width: 132px;
+height: 29px;
+left: 118px;
+top: 681px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+border: 1px solid #D9D9D9;
+
+
+/* Contraseña */
+
+position: absolute;
+width: 132px;
+height: 29px;
+left: 225px;
+top: 758px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 909px;
+height: 63px;
+left: 161px;
+top: 587px;
+
+background: rgba(0, 0, 0, 0.25);
+border: 3px solid #CACD15;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Usuario */
+
+position: absolute;
+width: 87px;
+height: 29px;
+left: 225px;
+top: 604px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 909px;
+height: 63px;
+left: 161px;
+top: 741px;
+
+background: rgba(0, 0, 0, 0.25);
+border: 3px solid #CACD15;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 909px;
+height: 63px;
+left: 161px;
+top: 849px;
+
+background: linear-gradient(90deg, #CACD15 40.09%, #CCCE69 96.23%);
+border: 3px solid #CACD15;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Iniciar Sesión */
+
+position: absolute;
+width: 151px;
+height: 29px;
+left: 488px;
+top: 866px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #D9D9D9;
+
+border: 1px solid #D9D9D9;
+
+
+/* ¿No tienes cuenta? */
+
+position: absolute;
+width: 217px;
+height: 29px;
+left: 392px;
+top: 951px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Registrate */
+
+position: absolute;
+width: 116px;
+height: 29px;
+left: 627px;
+top: 951px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+border: 1px solid #D9D9D9;
+
