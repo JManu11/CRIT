@@ -24,7 +24,6 @@ import tkinter as tk
 import Receta2
 from Receta2 import receta
 import cargainfo
-from cargainfo import ejecutar_interfaz
 
 
 #---------------Conexion con la BD-----------------------------------
